@@ -13,5 +13,10 @@ display: none;
     text-decoration: underline;
   }
 
+    .clickable:hover {
+    text-decoration: underline;
+  }
+
+
 
 
